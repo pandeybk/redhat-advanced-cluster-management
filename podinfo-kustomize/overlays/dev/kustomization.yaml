@@ -6,6 +6,6 @@ resources:
   - ../../bases/frontend
   - ../../bases/cache
   - namespace.yaml
-  - delete-demo-sa.yaml
+  # - delete-demo-sa.yaml
 transformers:
   - labels.yaml
